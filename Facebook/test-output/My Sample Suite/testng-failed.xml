@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [My Sample Suite]">
+  <test thread-count="5" name="TestA(failed)">
+    <classes>
+      <class name="com.org.learningmaven.Facebook.TestA">
+        <methods>
+          <include name="testA4"/>
+          <include name="testA1"/>
+          <include name="testA2"/>
+          <include name="testA3"/>
+        </methods>
+      </class> <!-- com.org.learningmaven.Facebook.TestA -->
+    </classes>
+  </test> <!-- TestA(failed) -->
+</suite> <!-- Failed suite [My Sample Suite] -->
