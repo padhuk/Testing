@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65" started-at="2019-09-17T03:00:51Z" finished-at="2019-09-17T03:00:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65" started-at="2019-09-17T03:00:51Z" finished-at="2019-09-17T03:00:51Z">
+      <class name="com.org.learningmaven.Facebook.CNN">
+        <test-method status="PASS" signature="cnn_test()[pri:0, instance:com.org.learningmaven.Facebook.CNN@14acaea5]" name="cnn_test" duration-ms="24" started-at="2019-09-17T03:00:51Z" finished-at="2019-09-17T03:00:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cnn_test -->
+      </class> <!-- com.org.learningmaven.Facebook.CNN -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
